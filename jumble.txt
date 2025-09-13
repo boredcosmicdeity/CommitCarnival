@@ -3,7 +3,7 @@ jumbled words (type the answers next to the questions)
  
 	       idisikb=skibidi
          ebiv=vibe
-         otpmurec=
+         otpmurec=computer
          nepo osucer=open source
          teshtacie=aesthetic 
 
