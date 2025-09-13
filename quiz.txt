@@ -6,15 +6,15 @@ b) Bruce Banner
 c) Tony Stark 
 d) Thor
 
-ans:
+ans:Tony Stark 
 
 Q2. What is the full form of KGF in the movie?
 a) Kolar Gold Fields 
-b) Karnataka Gold Fortress
+b) Tony Stark 
 c) Kanyakumari Gold Factory
 d) Kashi Gold Federation
 
-ans:
+ans:Kolar Gold Fields
 
 Q3. Who won the 2022 FIFA World Cup?
 a) France
@@ -22,7 +22,7 @@ b) Brazil
 c) Argentina 
 d) Germany
 
-ans:
+ans:Argentina
 
 Q4. Which element is most abundant in the Earth’s crust?
 a) Oxygen 
@@ -30,7 +30,7 @@ b) Iron
 c) Carbon
 d) Silicon
 
-ans:
+ans: Oxygen 
 
 Q5.What is the name of the powerful kingdom that Baahubali and Bhallaladeva fight to rule over? 
 a) Kuntala
@@ -38,7 +38,7 @@ b) Avantika
 c) Mahishmati
 d) Kalakeya
 
-ans:
+ans:Mahishmati
 Q6.Full form of LBS
 
 a)Lakshman Bapu Sathe
@@ -46,4 +46,4 @@ b)Lal Bahadur Shastri
 c)Lal Bihari Sharma
 d)London Business School
 
-ans:
+ans:Lal Bahadur Shastri
